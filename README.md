@@ -1,5 +1,9 @@
 ### Dog
 
+https://dogs.origamid.dev/
+Username: dog
+Password: dog
+
 ---
 
 ## Home
